@@ -43,3 +43,68 @@ body
     font-size: 60px;
     color: #f9461d;
 }
+
+.part1
+{
+    width: 100%; 
+	min-height: 759px;
+	background-image: url(../Img/1.jpg);
+	background-size: cover;
+	background-position: center center;
+    
+}
+
+
+
+
+
+.tittle
+{
+	margin-top: 50px;
+}
+.tittle h2
+{
+	font-size: 50px;
+	font-weight: 700; 
+	color: white;
+}
+@media only screen and (max-width: 600px) {
+	.tittle h2
+{
+	font-size: 35px;
+}
+}
+.qoute 
+{
+	max-width: 80%;
+	margin-right: auto; 
+	margin-left: auto;
+	
+	color: rgba(255,255,255,.7);
+}
+.button 
+{
+	
+	text-align: center;
+
+}
+.button a
+{
+	padding: 12px 30px;
+	
+	font-weight: 900;
+	background-color: #f9461d;
+}
+
+.navbar
+{
+    opacity: 0.5;
+    padding: 0 8%;
+}
+.raw hr
+{
+  
+    height: 5%;
+    color: red;
+    text-align: center;
+}
