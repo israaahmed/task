@@ -108,3 +108,34 @@ body
     color: red;
     text-align: center;
 }
+#pricing 
+{
+    margin-top: 100px;
+    margin-bottom: 200px;
+   
+}
+
+#pricing .border1
+{
+    background-color:#f9461d;
+    height: 4px;
+    width: 85px;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 70px;
+}
+#pricing .border2
+{
+    background-color:#f9461d;
+    height: 4px;
+    width: 35px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+#pricing .card
+{
+    width: 30rem;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+    box-shadow: 0 0 25px 0 rgba(0,0,0,.05);
+}
